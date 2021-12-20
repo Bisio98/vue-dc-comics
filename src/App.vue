@@ -23,9 +23,6 @@ export default {
 </script>
 
 <style>
-  #app{
-    background-color: black;
-  }
   *{
     margin: 0;
     padding: 0;
