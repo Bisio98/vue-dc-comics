@@ -23,14 +23,6 @@ export default {
 </script>
 
 <style>
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
-  .container{
-    width: 70%;
-    margin: auto;
-  }
+  @import './style/general.scss';
+  
 </style>

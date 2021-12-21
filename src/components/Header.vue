@@ -76,15 +76,18 @@ export default {
             height: 70px;
             width: 70px;
         }
-            ul{
-        list-style: none;
-        display: flex;
-        }
 
-        li{
+        ul{
+            list-style: none;
+            display: flex;
+            
+            li{
             margin: 0px 10px;
             font-weight: 00;
+            }
         }
+
+       
 
         .active{
             border-bottom: 3px solid #0C7CEC;
